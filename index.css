@@ -327,7 +327,7 @@ nav .fa-solid{
     #prawin24{
         display: flex;
         margin: 0px auto;
-        width: 50vw;
+        width: 70vw;
         border-radius: 8%;
         padding: 0;
     }
@@ -342,7 +342,7 @@ nav .fa-solid{
         height: 50px;
     }
     .social{
-        width: 50px;
+        width: 45px;
         margin: 5px 15px;
     }
     .fa-x{
